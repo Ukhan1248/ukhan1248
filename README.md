@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-# Umair's GitHub page
+# Welcome to Umair's GitHub page
 
-### Welcome to my GitHub page, please follow my profile
+### I’m currently working on Front End Development projects with the React.JS framework
+
+### Please follow my profile
 
 <!--
 **Ukhan1248/ukhan1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
