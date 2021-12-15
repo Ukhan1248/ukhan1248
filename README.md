@@ -2,7 +2,10 @@
 
 # Welcome to Umair's GitHub page
 
-### I’m currently working on Front End Development projects with the React.JS framework
+#### I’m currently working on Front End Development projects with the React.JS framework
+
+#### How to reach me:
+#### email: umair.khan.ece@gmail.com
 
 ### Please follow my profile
 
