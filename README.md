@@ -5,7 +5,7 @@
 #### I’m currently working on Front End Development projects with the React.JS framework
 
 #### How to reach me:
-#### email: umair.khan.ece@gmail.com
+#### email: umairkhan814@iclould.com
 
 ### Please follow my profile
 
