@@ -3,9 +3,10 @@
 # Welcome to Umair's GitHub page
 
 #### I’m currently working on Front End Development projects with the React.JS framework
+#### I’m currently learning - JavaScript/TypeScript | HTML | CSS | Node.js | React.JS
 
 #### How to reach me:
-#### email: umairkhan814@iclould.com
+#### email: umairkhan814@icloud.com
 
 ### Please follow my profile
 
