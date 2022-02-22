@@ -4,6 +4,7 @@
 
 #### I’m currently working on Front End Development projects with the React.JS and NEXT.js framework
 #### I’m currently learning - JavaScript/TypeScript | HTML | CSS | Node.js | React.JS
+#### I'm interested in Blockchain Development using Solana. 
 
 #### How to reach me:
 #### email: umairkhan814@icloud.com
