@@ -2,7 +2,7 @@
 
 # Welcome to Umair's GitHub page
 
-### I’m currently working on Front End Development projects with the React.JS and NEXT.js framework
+### I’m currently working on Front End Development projects with the React.JS framework
 ### I’m currently learning - JavaScript | HTML | CSS | Node.js | React.JS
 
 ### Uploading software coding projects to personal portfolio Website: https://umairkportfolio814.com 
