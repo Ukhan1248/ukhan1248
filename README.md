@@ -4,9 +4,7 @@
 
 ### I’m currently working on Front End Development projects with the React.JS framework
 ### I’m currently learning - JavaScript | HTML | CSS | Node.js | React.JS
-
-### Uploading software coding projects to 
-### portfolio website: https://umairkportfolio814.com 
+### Portfolio website: https://umairkportfolio814.com 
 ### Please Visit!
 
 ### How to reach me:
