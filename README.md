@@ -3,7 +3,7 @@
 # Welcome to Umair's GitHub page
 
 ### I’m currently working on Front End Development projects with the React.JS framework
-### BSEE with 8-9 years of experience working in defense industry as a Systems Engineer. Transitioning into Software Engineering 
+### Acitvely looking for Frontend Developer roles.
 ### I’m currently learning - JavaScript | HTML | CSS | Node.js | React.JS
 ### Portfolio website: https://umairkportfolio814.com 
 ### Please Visit!
