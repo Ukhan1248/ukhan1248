@@ -3,9 +3,10 @@
 # Welcome to Umair's GitHub page
 
 ### I’m currently working on Front End Development projects with the React.JS framework
-### Acitvely looking for Full Stack or Frontend Developer roles.
+### Acitvely looking for Full Stack, Frontend, or Web3.0/BlockChain Developer roles.
 ### I’m currently learning - JavaScript | HTML | CSS | Node.js | React.JS
 ### Portfolio website: https://umairkportfolio814.com 
+### Twitter: https://twitter.com/Ukhan1243
 ### Please Visit!
 
 ### How to reach me:
