@@ -2,10 +2,11 @@
 
 # Welcome to Umair's GitHub page
 
-### I’m currently working on projects with the React.JS and Next.JS framework
-### I'm using Microsoft Azure to host my website and apps
-### Currently learning - JavaScript | HTML | CSS | Node.js | React.JS
+### I’m currently working on projects with the React and NEXT.js framework
+### I'm using Vercal and MongoDB to host my website and apps
+### Currently learning - JavaScript | HTML | CSS | Node.js | React | NEXT.js
 
+### Founder of: https://visionaryailabs.com/
 ### Twitter: https://twitter.com/Ukhan1243
 ### ProductHunt: https://www.producthunt.com/@umair_khan18
 ### NewsLetter: https://digitalrevolutionists.substack.com/, Please Subscribe!
