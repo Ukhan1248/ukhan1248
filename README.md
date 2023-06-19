@@ -9,7 +9,7 @@
 ### Founder of: https://visionaryailabs.com/
 ### Twitter: https://twitter.com/Ukhan1243
 ### ProductHunt: https://www.producthunt.com/@umair_khan18
-### NewsLetter: https://digitalrevolutionists.substack.com/, Please Subscribe!
+### NewsLetter: https://medium.com/@umairkhan_79283, Please Subscribe!
 
 ### How to reach me:
 ### email: umair.khan@visionaryailabs.com
